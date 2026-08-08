@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f401bb1c5c52514eba33c0c2ffdc8ff, type: 3}
+  m_Name: Assets.expressionList
+  m_EditorClassIdentifier: Live2D.Cubism::Live2D.Cubism.Framework.Expression.CubismExpressionList
+  CubismExpressionObjects:
+  - {fileID: 11400000, guid: a63551f6117eebd43a461d8b90cc7101, type: 2}
+  - {fileID: 11400000, guid: 5d7855452ab67c946b9c08983d3cf73f, type: 2}
+  - {fileID: 11400000, guid: 0f0936bc463d2ba49a2eb9653239af2b, type: 2}
+  - {fileID: 11400000, guid: 49e4fe82b38afec4d9bd6c6aeaed80cc, type: 2}
+  - {fileID: 11400000, guid: e4400d36cafeb384198a474120bb393e, type: 2}
+  - {fileID: 11400000, guid: 0cef16c7f0fade64fa23a1021c7991bf, type: 2}
+  - {fileID: 11400000, guid: 944995fe15212554990134daf36b8d4f, type: 2}
+  - {fileID: 11400000, guid: fda642760f308ea449d65893669d27e4, type: 2}
+  - {fileID: 11400000, guid: 0038452777a73d747899a3dd15f26da4, type: 2}
+  - {fileID: 11400000, guid: d86740b7926dc264fb22e5d83e99e379, type: 2}
+  - {fileID: 11400000, guid: 71c9fed7b60468847b624610eeb73744, type: 2}
+  - {fileID: 11400000, guid: c833f5932b24a3a49860129cd657909c, type: 2}
+  - {fileID: 11400000, guid: f5195d7945c4bae40b142931e28af404, type: 2}
+  - {fileID: 11400000, guid: b6cb8b65d1ac8434f8b5718c96b7fd1b, type: 2}
+  - {fileID: 11400000, guid: ce2ee42880f70d149b8f7b13a74331c2, type: 2}
+  - {fileID: 11400000, guid: 6329769fa65732545b892bc38ea1dbf3, type: 2}

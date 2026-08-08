@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4b262afff0446945a03e7cb89d6f37a, type: 3}
+  m_Name: motionData
+  m_EditorClassIdentifier: Assembly-CSharp::MotionData
+  animationClips:
+  - {fileID: 7400000, guid: b85b38b7458c7ab4c9683f92de3acf49, type: 2}
+  - {fileID: 7400000, guid: eb26d69489078c64c97ca38c164fe322, type: 2}
+  - {fileID: 7400000, guid: c72d36f9ba8d87f4982dbc48cf2adc95, type: 2}
+  - {fileID: 7400000, guid: 62b7bb4f00b67f847931c10d233b5584, type: 2}
+  - {fileID: 7400000, guid: 8cb88220867acde45950c3b62c1e5172, type: 2}
+  - {fileID: 7400000, guid: ff8755e1635ee364fad8354b3fdedec0, type: 2}
+  - {fileID: 7400000, guid: 2ad196c268dc730488e08c97fcc22919, type: 2}
+  - {fileID: 7400000, guid: 87b71c18a17882042b2f6cf080c60503, type: 2}
+  - {fileID: 7400000, guid: 0adae38129c83604a9aaafc104e6b9bf, type: 2}
+  - {fileID: 7400000, guid: b7b8fa109a7a34f48afbbc236cc24b3c, type: 2}
+  idleAnimationIndexes: 00000000030000000400000009000000
+  emotionMappings:
+  - emotion: 0
+    animationIndexes: 0000000002000000
+  - emotion: 1
+    animationIndexes: 010000000400000005000000
+  - emotion: 2
+    animationIndexes: 040000000500000007000000
+  - emotion: 3
+    animationIndexes: 010000000400000005000000
+  - emotion: 4
+    animationIndexes: 010000000400000005000000
+  - emotion: 6
+    animationIndexes: 09000000
+  - emotion: 7
+    animationIndexes: 09000000
+  - emotion: 9
+    animationIndexes: 010000000300000008000000
+  - emotion: 12
+    animationIndexes: 06000000
+  - emotion: 13
+    animationIndexes: 06000000
